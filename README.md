@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/63/c0/70/63c07034dd64735214289f083b99a6e1.jpg](https://images2.alphacoders.com/136/1360865.png))
+[![MasterHead](https://images2.alphacoders.com/136/1360865.png)
 
 <h1 align="center">Hi 👋, I'm Rudraksh Yadav | Cybersecurity Enthusiast | Offensive Security Learner</h1>
 <h3 align="center">Web Exploitation • Penetration Testing • Reverse Engineering</h3>
