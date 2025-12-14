@@ -1,9 +1,9 @@
-[![MasterHead](https://images2.alphacoders.com/136/1360865.png)
+![MasterHead]([https://images2.alphacoders.com/136/1360865.png](https://images2.alphacoders.com/136/thumb-1920-1360865.png))
 
 <h1 align="center">Hi 👋, I'm Rudraksh Yadav | Cybersecurity Enthusiast | Offensive Security Learner</h1>
 <h3 align="center">Web Exploitation • Penetration Testing • Reverse Engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" >
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberuv&label=Profile%20views&color=0e75b6&style=flat" alt="cyberuv" /> </p>
 
